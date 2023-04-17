@@ -1,0 +1,22 @@
+{
+    "name": "Epitech Chatbot",
+    "short_name": "Epitech Chatbot",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Une PWA Flutter pour répondre à vos questions sur Epitech Benin",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [{
+            "src": "http://www.epitech.eu/favicon.ico",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "http://www.epitech.eu/favicon.ico",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
